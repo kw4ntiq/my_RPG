@@ -5,7 +5,7 @@ Our Epitech's RPG project.
 A first year simulator.
 
 <div align="left">
-<img src="https://github.com/TTENSHII/my_RPG/blob/main/pictures/pedago.png" height="220">
+<img src="https://github.com/kw4ntiq/my_RPG/blob/main/pictures/pedago.png" height="220">
 </div>
 
 ### Our goal
@@ -22,7 +22,7 @@ You need to install the csfml library, git and make
 
 Simply execute the commands: 
 ```bash
-git clone git@github.com:TTENSHII/my_RPG.git
+git clone git@github.com:kw4ntiq/my_RPG.git
 
 cd my_rpg/
 
@@ -41,7 +41,7 @@ You can start a new game or load an already existing one.
 By interacting with some NPCs in the game, you can save your game.
 
 ## Bonuses
-<img src="https://github.com/TTENSHII/my_RPG/blob/main/pictures/hub.png" align="right" height="230">
+<img src="https://github.com/kw4ntiq/my_RPG/blob/main/pictures/hub.png" align="right" height="230">
 <ul>
 <li> Minimap
 <li> FPS counter
@@ -52,16 +52,9 @@ By interacting with some NPCs in the game, you can save your game.
 <li> A fart when we press ' P ' with particles
 </ul>
 
-## Authors
-
-[@STCB](https://www.github.com/STCB) [@VINCENT](https://www.github.com/badidu09) [@TTENSHII](https://github.com/TTENSHII) [@SWANNLAGOUTE](https://github.com/swannlagoute)
-
 ## Sreenshots
 
 <div align="left">
-<img src="https://github.com/TTENSHII/my_RPG/blob/main/pictures/offices.png" height="220">
-<img src="https://github.com/TTENSHII/my_RPG/blob/main/pictures/rules.png" height="220">
+<img src="https://github.com/kw4ntiq/my_RPG/blob/main/pictures/offices.png" height="220">
+<img src="https://github.com/kw4ntiq/my_RPG/blob/main/pictures/rules.png" height="220">
 </div>
-
-
-
